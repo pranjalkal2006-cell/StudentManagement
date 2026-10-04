@@ -1,0 +1,30 @@
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+
+# Uploaded student documents
+/web/uploads/
+
+# Database dumps and backups
+*.sql
+*.sql.gz
+*.bak
+
+# Environment / secrets
+.env
+*.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled Java files
+*.class
